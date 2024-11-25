@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CBT AL-BUSTAN</string>
+
+    <string name="kodeiklan">ca-app-pub-3700600543118754~8221239449</string>
+    <string name="admobBanner">ca-app-pub-3700600543118754/4281994431</string>
+    <string name="ADSinterstitial">ca-app-pub-3700600543118754/2968912761</string>
+
+    <string name="tentang">tentang</string>
+    <string name="keluar">keluar</string>
+    <string name="judul">SELAMAT DATANG PESERTA \nUJIAN BERBASIS ANDROID \nMA BUSTANUL ULUM</string>
+    <string name="panduan">\n1. Berdoa Sebelum memulai Ujian
+    \n2. Pastikan Sudah terkoneksi Wifi Madrasah
+    \n3. Pastikan Batrey Smartphone masih tersisa 60%
+    \n4. Matikan Rotasi pada Smartphone
+    \n5. Akan terjadi pelanggaran jika keluar dari aplikasi ujian
+    \n6. Tombol keluar aplikasi dipojok kanan</string>
+    <string name="jenisujian">PAT Genap Kelas 9 2023</string>
+    <string name="hint_name">Masukan link http://10.251.0.2</string>
+    <string name="btn_lanjutkan">MULAI</string>
+    <string name="err_msg_name">Alamat IP lokal tidak valid atau ada spasi</string>
+    <string name="default_url">https://www.beetechmedia.my.id/</string>
+</resources>
